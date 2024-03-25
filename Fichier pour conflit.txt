@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 testtesttsettestset
 estsetseaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaatset
 estsetsetsetest
 setsetsetset
+=======
+qzdqzdqzdqzdqzdqzd
+qzdqzdqzdqzdqzd
+qzdqzdqzd
+>>>>>>> branche_pour_conflit
